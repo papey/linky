@@ -1,0 +1,13 @@
+name: linky
+version: 0.1.0
+
+authors:
+  - Wilfried OLLIVIER <wollivier@fdn.fr>
+
+targets:
+  linky:
+    main: src/linky.cr
+
+crystal: 0.35.1
+
+license: Unlincense
